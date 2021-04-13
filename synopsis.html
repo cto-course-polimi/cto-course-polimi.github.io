@@ -8,6 +8,7 @@ html {
   overflow-y: scroll;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  padding-bottom:50px;
 }
 
 body {
@@ -196,6 +197,7 @@ table {
 td {
   vertical-align: top;
   padding-right: 10pt;
+  padding-left: 10pt;
 }
 
 @media only screen and (min-width: 480px) {
@@ -303,6 +305,78 @@ Code Transformation and Optimization (2021)
 <li>Understand the internal structure of a real-world compiler</li>
 <li>Understand the effectiveness and limitations of code analysis and optimization techniques</li>
 <li>Be able to construct a full compiler for a toy language, generating assembly code for a RISC architecture</li>
+</ul>
+<h2 id="syllabus">Syllabus</h2>
+<h4 id="introduction-to-compiler-construction">Introduction to Compiler Construction</h4>
+<ul>
+<li>Why compiling? Compilers vs interpreters</li>
+<li>When to compile? JIT, AOT and static compilers</li>
+<li>What to compile? Compilation units</li>
+<li>Where to compile? Cross-compilation and split compilation</li>
+<li>Overview of a compiler framework
+<ul>
+<li>Lexical analysis &amp; parsing (review)</li>
+<li>Statement and Data Structure Lowering</li>
+<li>Optimization: machine independent and machine-dependent</li>
+<li>Code Generation</li>
+</ul></li>
+<li>Reading: Compiler Construction</li>
+</ul>
+<h4 id="intermediate-representations">Intermediate Representations</h4>
+<ul>
+<li>The Abstract Syntax Tree</li>
+<li>Basic Blocks and branches</li>
+<li>The Control Flow Graph</li>
+<li>The Static Single Assignment Form</li>
+<li><em>Reading:</em> Program Dependence Graph</li>
+</ul>
+<h4 id="semantic-analysis-type-checking">Semantic Analysis &amp; Type Checking</h4>
+<ul>
+<li>Symbol Tables</li>
+<li>Type Checking</li>
+<li>Runtime Organization</li>
+<li>Data Memory layout</li>
+<li>Activation Records</li>
+<li>Dynamic Memory allocation</li>
+<li><em>Reading:</em> Garbage Collection</li>
+</ul>
+<h4 id="code-generation">Code Generation</h4>
+<ul>
+<li>Code generation techniques: CISC and RISC processors</li>
+<li>Low-level optimization techniques</li>
+<li><em>Reading:</em> Low-level Optimization</li>
+</ul>
+<h4 id="dataflow-optimization">Dataflow Optimization</h4>
+<ul>
+<li>Principles and Fixed Point Computation</li>
+<li>Applications
+<ul>
+<li>Reaching Definitions</li>
+<li>Liveness Analysis</li>
+<li>Constant Propagation</li>
+</ul></li>
+<li><em>Reading:</em> Dataflow Optimizations</li>
+</ul>
+<h4 id="register-allocation">Register Allocation</h4>
+<ul>
+<li>When to allocate registers</li>
+<li>Graph Coloring</li>
+<li>Linear scanning</li>
+<li><em>Reading:</em> Linear Scan Register Allocation</li>
+</ul>
+<h4 id="parallelization-and-other-optimization-techniques">Parallelization and other optimization techniques</h4>
+<ul>
+<li>Instruction Scheduling</li>
+<li>Loop Optimization (Software Pipelining, Loop Unrolling)</li>
+<li>Limits to optimization: the aliasing problem</li>
+<li><em>Reading:</em> Program Optimization</li>
+<li><em>Reading:</em> Alias Analysis</li>
+<li><em>Reading:</em> Cache Optimization</li>
+</ul>
+<h4 id="advanced-topics">Advanced Topics</h4>
+<ul>
+<li>Advanced Optimization Techniques: Polyhedral Transformations</li>
+<li>The LLVM Compiler Framework</li>
 </ul>
 </body>
 </html>
