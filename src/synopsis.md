@@ -39,3 +39,73 @@ understanding compilers means being able to write better, more efficient code.
    optimization techniques
  - Be able to construct a full compiler for a toy language, generating
    assembly code for a RISC architecture
+   
+## Syllabus
+
+#### Introduction to Compiler Construction
+
+ - Why compiling? Compilers vs interpreters
+ - When to compile? JIT, AOT and static compilers
+ - What to compile? Compilation units
+ - Where to compile? Cross-compilation and split compilation
+ - Overview of a compiler framework
+   - Lexical analysis & parsing (review)
+   - Statement and Data Structure Lowering
+   - Optimization: machine independent and machine-dependent
+   - Code Generation
+ - Reading: Compiler Construction
+
+#### Intermediate Representations
+
+ - The Abstract Syntax Tree
+ - Basic Blocks and branches
+ - The Control Flow Graph
+ - The Static Single Assignment Form
+ - *Reading:* Program Dependence Graph
+
+#### Semantic Analysis & Type Checking
+
+ - Symbol Tables
+ - Type Checking
+ - Runtime Organization
+ - Data Memory layout
+ - Activation Records
+ - Dynamic Memory allocation
+ - *Reading:* Garbage Collection
+
+#### Code Generation
+
+ - Code generation techniques: CISC and RISC processors
+ - Low-level optimization techniques
+ - *Reading:* Low-level Optimization
+
+#### Dataflow Optimization
+
+ - Principles and Fixed Point Computation
+ - Applications
+   - Reaching Definitions
+   - Liveness Analysis
+   - Constant Propagation
+ - *Reading:* Dataflow Optimizations
+
+#### Register Allocation
+
+ - When to allocate registers
+ - Graph Coloring
+ - Linear scanning
+ - *Reading:* Linear Scan Register Allocation
+
+#### Parallelization and other optimization techniques
+
+ - Instruction Scheduling
+ - Loop Optimization (Software Pipelining, Loop Unrolling)
+ - Limits to optimization: the aliasing problem
+ - *Reading:* Program Optimization
+ - *Reading:* Alias Analysis
+ - *Reading:* Cache Optimization
+
+#### Advanced Topics
+
+ - Advanced Optimization Techniques: Polyhedral Transformations
+ - The LLVM Compiler Framework
+
