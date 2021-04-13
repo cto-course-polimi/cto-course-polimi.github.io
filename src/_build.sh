@@ -25,7 +25,7 @@ for f in *.md; do
   echo '</head>' >> "$out_file"
   
   echo '<body>' >> "$out_file"
-  pandoc -f markdown+simple_tables+multiline_tables -t html "$f" >> $out_file
+  pandoc -f markdown+simple_tables+multiline_tables+grid_tables -t html "$f" >> $out_file
   echo '</body>' >> "$out_file"
   
   echo '</html>' >> "$out_file"
