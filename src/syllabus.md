@@ -1,6 +1,6 @@
 [< Index](index.html)
 
-# Synopsis
+# Introduction to the Course
 
 In modern computer science and engineering, code transformation techniques are
 critical to achieve the combined goals of combining programmer productivity and

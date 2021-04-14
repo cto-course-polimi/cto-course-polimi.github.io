@@ -14,7 +14,7 @@ course!
 
 ## Table of Contents
 
-- <h3>[Synopsis](synopsis.html)</h3>
+- <h3>[Syllabus](syllabus.html)</h3>
 - <h3>[Calendar](cal.html)</h3>
 - <h3>[Teaching Material](material.html)</h3>
 - <h3>[Projects](projects.html)</h3>
