@@ -194,7 +194,7 @@ table {
   border-spacing: 0;
 }
 
-td {
+td, th {
   vertical-align: top;
   padding-right: 10pt;
   padding-left: 10pt;
@@ -303,13 +303,18 @@ Code Transformation and Optimization (2021)
 <th style="text-align:center;">
 <strong>Location</strong>
 </th>
-<th>
+<th style="text-align:center;">
+<strong>Type</strong>
+</th>
+<th style="text-align:left;">
 <strong>Topic</strong>
 </th>
 </tr>
 <tr style="color:#888">
 <td>
 2021-02-23
+</td>
+<td style="text-align:center;">
 </td>
 <td style="text-align:center;">
 </td>
@@ -324,6 +329,9 @@ Code Transformation and Optimization (2021)
 <td style="text-align:center;">
 Webex (G.A.)
 </td>
+<td style="text-align:center;">
+Lecture
+</td>
 <td>
 Intro
 </td>
@@ -334,6 +342,9 @@ Intro
 </td>
 <td style="text-align:center;">
 Webex (G.A.)
+</td>
+<td style="text-align:center;">
+Lecture
 </td>
 <td>
 IR
@@ -346,6 +357,9 @@ IR
 <td style="text-align:center;">
 Webex (G.A.)
 </td>
+<td style="text-align:center;">
+Lecture
+</td>
 <td>
 Data Layout+Codegen
 </td>
@@ -356,6 +370,9 @@ Data Layout+Codegen
 </td>
 <td style="text-align:center;">
 Webex (D.C.)
+</td>
+<td style="text-align:center;">
+Exe.
 </td>
 <td>
 LLVM
@@ -368,6 +385,9 @@ LLVM
 <td style="text-align:center;">
 Webex (G.A.)
 </td>
+<td style="text-align:center;">
+Lecture
+</td>
 <td>
 Dataflow
 </td>
@@ -378,6 +398,9 @@ Dataflow
 </td>
 <td style="text-align:center;">
 Webex (D.C.)
+</td>
+<td style="text-align:center;">
+Exe.
 </td>
 <td>
 LLVM
@@ -390,6 +413,9 @@ LLVM
 <td style="text-align:center;">
 Webex (G.A.)
 </td>
+<td style="text-align:center;">
+Lecture
+</td>
 <td>
 Regalloc
 </td>
@@ -400,6 +426,9 @@ Regalloc
 </td>
 <td style="text-align:center;">
 Webex (A.G.)
+</td>
+<td style="text-align:center;">
+Exe.
 </td>
 <td>
 Monotone Framework
@@ -412,6 +441,9 @@ Monotone Framework
 <td style="text-align:center;">
 Webex (A.G.)
 </td>
+<td style="text-align:center;">
+Exe.
+</td>
 <td>
 Monotone Framework
 </td>
@@ -423,6 +455,9 @@ Monotone Framework
 <td style="text-align:center;">
 Webex (D.C.)
 </td>
+<td style="text-align:center;">
+Lecture
+</td>
 <td>
 LLVM
 </td>
@@ -433,6 +468,8 @@ LLVM
 </td>
 <td style="text-align:center;">
 </td>
+<td style="text-align:center;">
+</td>
 <td>
 (skipped)
 </td>
@@ -440,6 +477,8 @@ LLVM
 <tr style="color:#888">
 <td>
 2021-04-06
+</td>
+<td style="text-align:center;">
 </td>
 <td style="text-align:center;">
 </td>
@@ -454,6 +493,9 @@ LLVM
 <td style="text-align:center;">
 Webex (G.A.)
 </td>
+<td style="text-align:center;">
+–
+</td>
 <td>
 <a href="projects.html">Projects Presentation</a>
 </td>
@@ -463,7 +505,10 @@ Webex (G.A.)
 2021-04-13
 </td>
 <td style="text-align:center;">
-Webex (G.A.)
+9.0.2 Room
+</td>
+<td style="text-align:center;">
+Lecture
 </td>
 <td>
 Optimization part 1 (various)
@@ -476,6 +521,9 @@ Optimization part 1 (various)
 <td style="text-align:center;">
 Webex (G.A.)
 </td>
+<td style="text-align:center;">
+Lecture
+</td>
 <td>
 Optimization part 2 (various)
 </td>
@@ -485,10 +533,13 @@ Optimization part 2 (various)
 2021-04-20
 </td>
 <td style="text-align:center;">
-?
+9.0.2 Room
+</td>
+<td style="text-align:center;">
+Lab
 </td>
 <td>
-Lowering (LAB)
+Lowering
 </td>
 </tr>
 <tr>
@@ -496,15 +547,20 @@ Lowering (LAB)
 2021-04-23
 </td>
 <td style="text-align:center;">
-?
+T.0.1 Room
+</td>
+<td style="text-align:center;">
+Lab
 </td>
 <td>
-Lowering (LAB)
+Lowering
 </td>
 </tr>
 <tr style="color:#888">
 <td>
 2021-04-27
+</td>
+<td style="text-align:center;">
 </td>
 <td style="text-align:center;">
 </td>
@@ -519,6 +575,9 @@ Lowering (LAB)
 <td style="text-align:center;">
 Webex (A.G.)
 </td>
+<td style="text-align:center;">
+Exe.
+</td>
 <td>
 LLVMCpy
 </td>
@@ -528,7 +587,10 @@ LLVMCpy
 2021-05-04
 </td>
 <td style="text-align:center;">
-Webex (A.G.)
+9.0.2 Room
+</td>
+<td style="text-align:center;">
+Exe.
 </td>
 <td>
 Polyhedral Optimization
@@ -541,6 +603,9 @@ Polyhedral Optimization
 <td style="text-align:center;">
 Webex (D.C.)
 </td>
+<td style="text-align:center;">
+Exe.
+</td>
 <td>
 LLVM-MCA
 </td>
@@ -550,7 +615,10 @@ LLVM-MCA
 2021-05-11
 </td>
 <td style="text-align:center;">
-Webex (G.A.)
+9.0.2 Room
+</td>
+<td style="text-align:center;">
+Exe.
 </td>
 <td>
 Linker+LTO
@@ -563,6 +631,9 @@ Linker+LTO
 <td style="text-align:center;">
 Webex (D.C.)
 </td>
+<td style="text-align:center;">
+Exe.
+</td>
 <td>
 DWARF
 </td>
@@ -572,15 +643,21 @@ DWARF
 2021-05-18
 </td>
 <td style="text-align:center;">
-?
+9.0.2 Room
+</td>
+<td style="text-align:center;">
+Lab
 </td>
 <td>
-Data Layout+Register Allocation (LAB)
+Data Layout+Register Allocation
 </td>
 </tr>
 <tr>
 <td>
 2021-05-21
+</td>
+<td style="text-align:center;">
+?
 </td>
 <td style="text-align:center;">
 ?
@@ -594,15 +671,21 @@ TBD
 2021-05-25
 </td>
 <td style="text-align:center;">
-?
+9.0.2 Room
+</td>
+<td style="text-align:center;">
+Lab
 </td>
 <td>
-Data Layout+Register Allocation (LAB)
+Data Layout+Register Allocation
 </td>
 </tr>
 <tr>
 <td>
 2021-05-28
+</td>
+<td style="text-align:center;">
+?
 </td>
 <td style="text-align:center;">
 ?
@@ -616,10 +699,13 @@ TBD
 2021-06-01
 </td>
 <td style="text-align:center;">
-?
+9.0.2 Room
+</td>
+<td style="text-align:center;">
+Lab
 </td>
 <td>
-Codegen (LAB)
+Codegen
 </td>
 </tr>
 <tr>
@@ -627,10 +713,13 @@ Codegen (LAB)
 2021-06-04
 </td>
 <td style="text-align:center;">
-?
+T.0.1 Room
+</td>
+<td style="text-align:center;">
+Lab
 </td>
 <td>
-Codegen (LAB)
+Codegen
 </td>
 </tr>
 </tbody>
