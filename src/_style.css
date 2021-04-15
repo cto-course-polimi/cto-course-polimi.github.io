@@ -191,7 +191,7 @@ table {
   border-spacing: 0;
 }
 
-td {
+td, th {
   vertical-align: top;
   padding-right: 10pt;
   padding-left: 10pt;
