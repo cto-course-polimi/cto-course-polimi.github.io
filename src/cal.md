@@ -18,7 +18,7 @@
 <tr style="color:#888">  <td> 2021-04-02 </td>  <td style="text-align:center;">              </td>  <td style="text-align:center;">          </td>  <td> (skipped)                              </td>  </tr>
 <tr style="color:#888">  <td> 2021-04-06 </td>  <td style="text-align:center;">              </td>  <td style="text-align:center;">          </td>  <td> (skipped)                              </td>  </tr>
 <tr>                     <td> 2021-04-09 </td>  <td style="text-align:center;"> Webex (G.A.) </td>  <td style="text-align:center;"> --       </td>  <td> [Projects Presentation](projects.html) </td>  </tr>
-<tr>                     <td> 2021-04-13 </td>  <td style="text-align:center;"> 9.0.2 Room   </td>  <td style="text-align:center;"> Lecture  </td>  <td> Optimization part 1 (various)          </td>  </tr>
+<tr>                     <td> 2021-04-13 </td>  <td style="text-align:center;"> Webex (G.A.) </td>  <td style="text-align:center;"> Lecture  </td>  <td> Optimization part 1 (various)          </td>  </tr>
 <tr>                     <td> 2021-04-16 </td>  <td style="text-align:center;"> Webex (G.A.) </td>  <td style="text-align:center;"> Lecture  </td>  <td> Optimization part 2 (various)          </td>  </tr>
 <tr>                     <td> 2021-04-20 </td>  <td style="text-align:center;"> 9.0.2 Room   </td>  <td style="text-align:center;"> Lab      </td>  <td> Lowering                               </td>  </tr>
 <tr>                     <td> 2021-04-23 </td>  <td style="text-align:center;"> T.0.1 Room   </td>  <td style="text-align:center;"> Lab      </td>  <td> Lowering                               </td>  </tr>
