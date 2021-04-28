@@ -23,10 +23,10 @@
 <tr>                     <td> 2021-04-20 </td>  <td style="text-align:center;"> 9.0.2 Room   </td>  <td style="text-align:center;"> Lab      </td>  <td> Lowering                               </td>  </tr>
 <tr>                     <td> 2021-04-23 </td>  <td style="text-align:center;"> T.0.1 Room   </td>  <td style="text-align:center;"> Lab      </td>  <td> Lowering                               </td>  </tr>
 <tr style="color:#888">  <td> 2021-04-27 </td>  <td style="text-align:center;">              </td>  <td style="text-align:center;">          </td>  <td> (skipped)                              </td>  </tr>
-<tr>                     <td> 2021-04-30 </td>  <td style="text-align:center;"> Webex (A.G.) </td>  <td style="text-align:center;"> Exe.     </td>  <td> LLVMCpy                                </td>  </tr>
+<tr>                     <td> 2021-04-30 </td>  <td style="text-align:center;"> T.0.1 Room and Webex Room (A.G.) </td>  <td style="text-align:center;"> Exe.     </td>  <td>   Linker+LTO       </td>  </tr>
 <tr>                     <td> 2021-05-04 </td>  <td style="text-align:center;"> 9.0.2 Room   </td>  <td style="text-align:center;"> Exe.     </td>  <td> Polyhedral Optimization                </td>  </tr>
 <tr>                     <td> 2021-05-07 </td>  <td style="text-align:center;"> Webex (D.C.) </td>  <td style="text-align:center;"> Exe.     </td>  <td> LLVM-MCA                               </td>  </tr>
-<tr>                     <td> 2021-05-11 </td>  <td style="text-align:center;"> 9.0.2 Room   </td>  <td style="text-align:center;"> Exe.     </td>  <td> Linker+LTO                             </td>  </tr>
+<tr>                     <td> 2021-05-11 </td>  <td style="text-align:center;"> 9.0.2 Room   </td>  <td style="text-align:center;"> Exe.     </td>  <td> LLVMCpy                                </td>  </tr>
 <tr>                     <td> 2021-05-14 </td>  <td style="text-align:center;"> Webex (D.C.) </td>  <td style="text-align:center;"> Exe.     </td>  <td> DWARF                                  </td>  </tr>
 <tr>                     <td> 2021-05-18 </td>  <td style="text-align:center;"> 9.0.2 Room   </td>  <td style="text-align:center;"> Lab      </td>  <td> Data Layout+Register Allocation        </td>  </tr>
 <tr>                     <td> 2021-05-21 </td>  <td style="text-align:center;"> ?            </td>  <td style="text-align:center;"> ?        </td>  <td> TBD                                    </td>  </tr>
