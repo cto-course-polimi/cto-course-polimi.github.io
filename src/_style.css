@@ -193,8 +193,8 @@ table {
 
 td, th {
   vertical-align: top;
-  padding-right: 10pt;
-  padding-left: 10pt;
+  padding-right: 5pt;
+  padding-left: 5pt;
 }
 
 @media only screen and (min-width: 480px) {
