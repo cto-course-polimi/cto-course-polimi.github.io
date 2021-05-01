@@ -19,7 +19,7 @@
 
 More stuff and code examples available here: [https://github.com/danielecattaneo/compiler-slides](https://github.com/danielecattaneo/compiler-slides)
 
-#### Monotone Framework
+#### Monotone Framework + Linker
 
 All material is available here: [https://chef.heaplab.deib.polimi.it/cloud_host/index.php/s/Oll7WJ8BoYBMylN](https://chef.heaplab.deib.polimi.it/cloud_host/index.php/s/Oll7WJ8BoYBMylN)
 
@@ -40,7 +40,7 @@ course.
  - [CTO class notes (password-protected)](https://chef.heaplab.deib.polimi.it/cloud_host/index.php/s/Df6uQrCssQKEHkh)
  - [A Catalogue of Optimizing Transformations (1971)](https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf)
    -- Surprisingly not that outdated!
- 
+
 #### Advanced readings
 
  - [A data locality optimizing algorithm](https://dl.acm.org/doi/pdf/10.1145/113445.113449?casa_token=cQEseB0JvfYAAAAA:IQ78f6aTtZEmQ7KPmoxG1XrAkmg0yiYSN1Guyb1Bq6C3vric40RF48DJiuTYFxp7__YxCV0QerTR)
@@ -63,10 +63,10 @@ Note: **videos are only available to PoliMi students!**
 
 #### AY 2020/21
 
-- [LLVM 1/3](https://web.microsoftstream.com/video/e0b685c7-a40c-4ebd-93c7-1f2c8d1e13ab) 
+- [LLVM 1/3](https://web.microsoftstream.com/video/e0b685c7-a40c-4ebd-93c7-1f2c8d1e13ab)
 - [LLVM 2/3](https://web.microsoftstream.com/video/c7ccd37b-93c6-462f-92f9-6d6107abaa99)
-- [LLVM 3/3](https://web.microsoftstream.com/video/70b70bca-f42a-484a-b63d-11b06af03d91) 
+- [LLVM 3/3](https://web.microsoftstream.com/video/70b70bca-f42a-484a-b63d-11b06af03d91)
 - [Monotone Framework 1/2](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=2b72db6af7a2436eaac29d31a21e955c)
 - [Monotone Framework 2/2](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=a449e243fc80467399a933a102ca66eb)
-
+- [Linker 1/2](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=8ea2c5e4243547599ca69ef99684b035)
 
