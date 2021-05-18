@@ -70,4 +70,5 @@ Note: **videos are only available to PoliMi students!**
 - [Monotone Framework 2/2](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=a449e243fc80467399a933a102ca66eb)
 - [Linker 1/2](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=8ea2c5e4243547599ca69ef99684b035)
 - [Linker 2/2+LLVMCpy](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=848929ac66ec42d8b64bf77e816fd933)
+- [Polyhedral Optimization](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=5a42bba940d64423a8e0b03fe89f3368)
 
