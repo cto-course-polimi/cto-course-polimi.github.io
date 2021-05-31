@@ -37,9 +37,15 @@
 <tr>                     <td> 2021-05-25 </td>  <td> 14.30  </td>  <td style="text-align:center;">              </td>  <td style="text-align:center;"> Webex D.C.</td>  <td style="text-align:center;"> Exe.     </td>  <td> LLVM-MCA                               </td>  </tr>
 <tr>                     <td> 2021-05-28 </td>  <td> 08.30  </td>  <td style="text-align:center;">              </td>  <td style="text-align:center;"> Zoom      </td>  <td style="text-align:center;"> Lab      </td>  <td> Codegen                                </td>  </tr>
 <tr>                     <td> 2021-05-28 </td>  <td> 10.30  </td>  <td style="text-align:center;"> T.0.1        </td>  <td style="text-align:center;">           </td>  <td style="text-align:center;"> Lab      </td>  <td> Codegen                                </td>  </tr>
-<tr>                     <td> 2021-06-01 </td>  <td> 14.30  </td>  <td style="text-align:center;"> ?            </td>  <td style="text-align:center;"> ?         </td>  <td style="text-align:center;"> ?        </td>  <td> TBD                                    </td>  </tr>
+<tr>                     <td> 2021-06-01 </td>  <td> 14.30  </td>  <td style="text-align:center;">              </td>  <td style="text-align:center;"> Teams     </td>  <td style="text-align:center;"> Lecture  </td>  <td> [Invited talk](#invtalk) </td> </tr>
 <tr>                     <td> 2021-06-04 </td>  <td> 08.30  </td>  <td style="text-align:center;">              </td>  <td style="text-align:center;"> Zoom      </td>  <td style="text-align:center;"> Lab      </td>  <td> Codegen                                </td>  </tr>
 <tr>                     <td> 2021-06-04 </td>  <td> 10.30  </td>  <td style="text-align:center;"> T.0.1        </td>  <td style="text-align:center;">           </td>  <td style="text-align:center;"> Lab      </td>  <td> Codegen                                </td>  </tr>
 </tbody></table>
 
 Zoom links are posted to the Teams channel of the course before the laboratory.
+
+#### <a name="invtalk">Invited Talk</a>
+
+S. Cherubin<br>
+Edinburgh Napier University<br>
+"Compiler-Assisted Precision Tuning... and related topics"
