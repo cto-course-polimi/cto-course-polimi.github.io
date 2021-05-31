@@ -71,7 +71,14 @@ Note: **videos are only available to PoliMi students!**
 - [Linker 1/2](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=8ea2c5e4243547599ca69ef99684b035)
 - [Linker 2/2+LLVMCpy](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=848929ac66ec42d8b64bf77e816fd933)
 - [Polyhedral Optimization](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=5a42bba940d64423a8e0b03fe89f3368)
+- [LLVM-MCA](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=65980e471d3846f5b7685e5181c3442f)
 
 #### AY 2019/20
 
+Striked out lectures are based on outdated material
+
+- ~~[LLVM 1/3](https://web.microsoftstream.com/video/b5b8e066-b730-4630-ab02-cc8c4c1fe626)~~
+- ~~[LLVM 2/3](https://web.microsoftstream.com/video/05821552-affe-4e01-8e52-38ea7a027dc8)~~
+- ~~[LLVM 3/3](https://web.microsoftstream.com/video/06889931-6f40-4fbe-94fa-1dc2976650bf)~~
 - [DWARF](https://web.microsoftstream.com/video/aaa7158e-8619-4304-b7f4-e5206eb0de00)
+- [LLVM-MCA](https://web.microsoftstream.com/video/e86b0675-32dd-4443-8b6b-7bec9f67eee2)
