@@ -12,16 +12,21 @@
 
 #### LLVM
 
+Links to the slides and the supplementary material:
+
 1. [Welcome](https://github.com/danielecattaneo/compiler-slides/raw/master/00-llvm-welcome.pdf)
 2. [LLVM Structure](https://github.com/danielecattaneo/compiler-slides/raw/master/01-llvm-structure.pdf)
 3. [LLVM Passes](https://github.com/danielecattaneo/compiler-slides/raw/master/02-llvm-passes.pdf)
-4. [LLVM Howto](https://github.com/danielecattaneo/compiler-slides/raw/master/03-llvm-howto.pdf)
-
-More stuff and code examples available here: [https://github.com/danielecattaneo/compiler-slides](https://github.com/danielecattaneo/compiler-slides)
+4. [LLVM Howto](https://github.com/danielecattaneo/compiler-slides/raw/master/03-llvm-howto.pdf) ([code examples](https://github.com/danielecattaneo/compiler-slides/raw/master/03-llvm-howto-code.zip))
+5. [LLVM-MCA](https://github.com/danielecattaneo/compiler-slides/raw/master/10-llvm-mca.pdf) ([code examples](https://github.com/danielecattaneo/compiler-slides/raw/master/10-llvm-mca-code.zip))
 
 #### Monotone Framework + Linker + LLVMCpy
 
 All material is available here: [https://chef.heaplab.deib.polimi.it/cloud_host/index.php/s/Oll7WJ8BoYBMylN](https://chef.heaplab.deib.polimi.it/cloud_host/index.php/s/Oll7WJ8BoYBMylN)
+
+#### DWARF
+
+Slides available [here](https://github.com/danielecattaneo/compiler-slides/raw/master/20-dwarf.pdf)
 
 # Readings
 
