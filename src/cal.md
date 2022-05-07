@@ -2,6 +2,7 @@
 
 # Calendar
 
+<!--
 <table><tbody>
 <tr>                     <th> **Date**   </th>  <th>**Time**</th>  <th style="text-align:center;" colspan=2> **Location**                                        </th>  <th style="text-align:center;"> **Type** </th>  <th  style="text-align:left;"> **Topic**    </th>  </tr>
 <tr>                     <th>            </th>  <th>        </th>  <th style="text-align:center;"> *Campus*     </th>  <th style="text-align:center;"> *Virtual* </th>  <th style="text-align:center;">          </th>  <th  style="text-align:left;">              </th>  </tr>
@@ -41,11 +42,6 @@
 <tr>                     <td> 2021-06-04 </td>  <td> 08.30  </td>  <td style="text-align:center;">              </td>  <td style="text-align:center;"> Zoom      </td>  <td style="text-align:center;"> Lab      </td>  <td> Codegen                                </td>  </tr>
 <tr>                     <td> 2021-06-04 </td>  <td> 10.30  </td>  <td style="text-align:center;"> T.0.1        </td>  <td style="text-align:center;">           </td>  <td style="text-align:center;"> Lab      </td>  <td> Codegen                                </td>  </tr>
 </tbody></table>
+-->
 
 Zoom links are posted to the Teams channel of the course before the laboratory.
-
-#### <a name="invtalk">Invited Talk</a>
-
-S. Cherubin<br>
-Edinburgh Napier University<br>
-"Compiler-Assisted Precision Tuning... and related topics"

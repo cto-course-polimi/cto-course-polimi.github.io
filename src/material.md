@@ -6,7 +6,7 @@
 
 ## Theory Lessons
 
-(to be added at a later date)
+Links to videos of the theory lessons are given personally to students attending the classes.
 
 ## Exercise Lessons
 
@@ -42,7 +42,7 @@ course.
  - [The Program Dependence Graph and Its Use in Optimization](https://www.cs.utexas.edu/users/less/reading/spring00/ferrante.pdf)
  - [Static Single Assignment Book](http://ssabook.gforge.inria.fr/latest/book.pdf)
  - [Uniprocessor garbage collection techniques](https://www.researchgate.net/profile/Paul_Wilson34/publication/225216046_Uniprocessor_Garbage_Collection_Techniques/links/5570624c08aee1eea7586fcb.pdf)
- - [CTO class notes (password-protected)](https://chef.heaplab.deib.polimi.it/cloud_host/index.php/s/Df6uQrCssQKEHkh)
+ - [CTO class notes (password-protected)](https://polimi365-my.sharepoint.com/:b:/g/personal/10456597_polimi_it/EUbOBLMFE8REudTLsiyyq7UBDq-JHCxkuqmR0QgN30ma0w?e=jY8T45)
  - [A Catalogue of Optimizing Transformations (1971)](https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf)
    -- Surprisingly not that outdated!
 

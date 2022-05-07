@@ -18,5 +18,3 @@ The project work can be taken in groups of one to three students, and in the fol
 
 Independent project activities also replace the oral exam, while the supervised
 project activity does not.
-
-[Available Projects](projects.html)
